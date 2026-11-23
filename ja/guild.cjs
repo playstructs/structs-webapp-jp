@@ -5,13 +5,14 @@
 // filled in by translate.cjs) and guild.json is written from them
 // (guildjson.cjs), so founding or renaming it changes this file and the art.
 //
-// 星間建設 was founded on 2026-11-22. With `founded` false, recovery would move
+// Seikan Kensetsu (星間建設, spelled in Latin for now, here and on chain) was
+// founded on 2026-11-22. With `founded` false, recovery would move
 // nobody into the guild (runtime/recovery.js), no guild.json would be written
 // and the Pages workflow would refuse to deploy.
 module.exports = {
   founded: true,
   id: '0-15',
-  name: '星間建設',
+  name: 'Seikan Kensetsu',
   tag: '星建',
   motto: '安全第一、採掘第二。',
   badge: '/ja/img/guild-badge.png',

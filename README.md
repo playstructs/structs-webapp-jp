@@ -21,7 +21,7 @@ npm run dev          # http://localhost:5183
 
 ## Which guild
 
-星間建設 (tag `星建`, "seiken"), at `seiken.structs.zone`, motto 安全第一、採掘第二。
+Seikan Kensetsu (星間建設, spelled in Latin for now; tag `星建`, "seiken"), at `seiken.structs.zone`, motto 安全第一、採掘第二。
 ("Safety first, mining second."), token `bento` / `tsubu`. Its details are in one
 file, [`ja/guild.cjs`](ja/guild.cjs), and the `guild.json` the site serves is
 written from it.
@@ -42,16 +42,12 @@ a bearer token, since a guild's session cookie would be third-party here.
 
 | | |
 |---|---|
-| Guild | `0-15` 星間建設, owned by founder player `1-14688` (`structs14axe4vp9m52gprqmje3cc80gpfw0erj8aq27pd`) |
+| Guild | `0-15` Seikan Kensetsu, owned by founder player `1-14688` (`structs14axe4vp9m52gprqmje3cc80gpfw0erj8aq27pd`) |
 | Primary reactor | `3-5` LuckyStar |
 | Entry substation | `4-26`, fed by allocation `6-76` from the guild's own stake |
 | Joining | open: join minimum 0, invite bypass permissioned |
 | Endpoint | `https://seiken.structs.zone/guild.json` |
 | Sign-up (TSA) | player `1-14690` (`structs1ezyhq6q940m6wva25zgjrkzs7sdn34fk0972ca`), the host's proxy-join signer: 512 (GuildMembership) on `0-15`, 1024 (SubstationConnection) on `4-26` |
-
-Still to do: the GitHub remote, Pages (source: GitHub Actions) with the custom
-domain, and a CNAME for `seiken.structs.zone` to `playstructs.github.io`, as the
-other guilds' sites have.
 
 ## Sign-up and the player's key
 
