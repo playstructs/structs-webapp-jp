@@ -1,0 +1,14 @@
+{
+  "<div class=\"sui-text-header\">Signing Paused</div>": "<div class=\"sui-text-header\">命令の送信を一時停止中</div>",
+  "This browser has saved transaction records it cannot read, so new transactions are paused.\n                Setting them aside keeps a copy and resumes signing. A set-aside transaction may already\n                have been sent, so check your balances before repeating an action.": "このブラウザに読み取れない命令の記録が残っているため、新しい命令を送れません。\n                記録を退避すると、控えを残したうえで命令の送信を再開します。退避した命令は\n                すでに送信されている場合があるため、同じ操作を繰り返す前に所持量を確認してください。",
+  "sui-mod-destructive\">Set Aside and Continue</button>": "sui-mod-destructive\">退避して続ける</button>",
+  "MenuPage.setPageTemplateHeaderBtn('Account');": "MenuPage.setPageTemplateHeaderBtn('アカウント');",
+  "<span class=\"sui-text-header\">Profile</span>": "<span class=\"sui-text-header\">プロフィール</span>",
+  "<span class=\"sui-text-header\">Transfers</span>": "<span class=\"sui-text-header\">送付</span>",
+  "<span class=\"sui-text-header\">Devices</span>": "<span class=\"sui-text-header\">端末</span>",
+  "\">${addressCount} Devices Active</div>": "\">${addressCount}台の端末が有効</div>",
+  "<span class=\"sui-text-header\">Combat Tutorial</span>": "<span class=\"sui-text-header\">戦闘訓練</span>",
+  "$keep": [
+    "PID #"
+  ]
+}

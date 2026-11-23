@@ -1,0 +1,9 @@
+{
+  "'Activate Device'": "'端末の登録'",
+  "alt=\"3 dots loading animation\"": "alt=\"読み込み中\"",
+  "<span>Please review and confirm the activation request on your logged-in device.</span>": "<span>ログイン中の端末で登録要求を確認し、承認してください。</span>",
+  ">Do not close this screen.</span>": ">この画面を閉じないでください。</span>",
+  ">DEVICE SEAL</div>": ">端末の印章</div>",
+  "data-sui-tooltip=\"Ensure this matches the new device's seal on your other device.\"": "data-sui-tooltip=\"もう一方の端末に表示された、新しい端末の印章と一致することを確認してください。\"",
+  ">What's this?</a>": ">これは何ですか?</a>"
+}

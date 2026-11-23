@@ -1,0 +1,10 @@
+{
+  "'Skip Tutorial?'": "'戦闘訓練をスキップ'",
+  "'Are you sure you want to skip the tutorial? You can revisit the tutorial later from the menu.'": "'戦闘訓練をスキップしますか? 後からメニューで受けられます。'",
+  "'Skip Tutorial',": "'スキップ',",
+  "menuWaitingOptions.headerBtnLabel = 'Logout';": "menuWaitingOptions.headerBtnLabel = 'ログアウト';",
+  "menuWaitingOptions.waitingMessage = 'Logging out.';": "menuWaitingOptions.waitingMessage = 'ログアウトしています。';",
+  "$keep": [
+    "Auth"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "`${days}D ${hours}H ${minutes}M`": "`${days}日 ${hours}時間 ${minutes}分`",
+  "?? `Sector ${": "?? `セクター ${",
+  "`Guild ${guildId}`": "`ギルド ${guildId}`",
+  "`${items[0]} and ${items[1]}`": "`${items[0]}、${items[1]}`",
+  "`${items.slice(0, -1).join(', ')}, and ${items[items.length - 1]}`": "`${items.slice(0, -1).join('、')}、${items[items.length - 1]}`",
+  "$keep": [
+    "PID #"
+  ]
+}

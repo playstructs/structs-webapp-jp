@@ -1,0 +1,12 @@
+{
+  "href=\"javascript:void(0)\">Player #${this.transaction.counterparty_player_id}</a>": "href=\"javascript:void(0)\">プレイヤー #${this.transaction.counterparty_player_id}</a>",
+  ">Back To Account</a>": ">アカウントに戻る</a>",
+  "? 'Recipient' : 'Sender';": "? '送付先' : '送付元';",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction Details',": "MenuPage.setPageTemplateHeaderBtn('送付の詳細',",
+  "            This transaction was completed successfully.\n": "            この送付は正常に完了しました。\n",
+  "sui-text-header\">Player Details</div>": "sui-text-header\">プレイヤー情報</div>",
+  "<div>Transaction ID</div>": "<div>送付ID</div>",
+  "<div>Date</div>": "<div>日付</div>",
+  "<div>Amount</div>": "<div>数量</div>",
+  "'Alpha Matter',": "'アルファマター',"
+}

@@ -1,0 +1,10 @@
+{
+  "`<div>No results found. Please try a different search term.</div>`": "`<div>見つかりませんでした。別の検索語をお試しください。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Scan Results',": "MenuPage.setPageTemplateHeaderBtn('スキャン結果',",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影響力ポイント\"",
+  ": 'View';": ": '表示';",
+  "$keep": [
+    "PID #",
+    "Fleet"
+  ]
+}

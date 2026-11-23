@@ -1,0 +1,21 @@
+{
+  "'Multiple Raids by members of your Guild against the same planet do not earn additional points.'": "'同じ惑星をギルドのメンバーが何度襲撃しても、追加のポイントは得られません。'",
+  "'Awarded for each planet your Guild was the last to successfully Raid at contest end.'": "'イベント終了時に、自分のギルドが最後に襲撃を成功させていた惑星ごとに与えられます。'",
+  "'Your points earned in this sector.'": "'このセクターで獲得したポイントです。'",
+  "'Your points earned across all sectors.'": "'全セクターで獲得したポイントです。'",
+  "MenuPage.setPageTemplateHeaderBtn('Event Rules',": "MenuPage.setPageTemplateHeaderBtn('イベントルール',",
+  "${SECTOR_BLITZ.NAME} is a time-limited event where Guilds compete to acquire": "${SECTOR_BLITZ.NAME}は、各ギルドが銀河セクターで",
+  "<span class=\"sui-text-warning\">Influence Points</span>": "<span class=\"sui-text-warning\">影響力ポイント</span>を競い合う期間限定イベントです。",
+  "\n                across galactic sectors.\n": "\n",
+  "Launch at least 1 Raid to qualify.": "参加するには、襲撃を1回以上行ってください。",
+  "Earn points for each unique rival planet successfully Raided by your Guild.": "ギルドが襲撃に成功した敵対惑星ごとにポイントを獲得します。同じ惑星は一度だけ数えます。",
+  "The Guild with the most points in a sector controls that sector.": "セクターで最も多くのポイントを持つギルドが、そのセクターを支配します。",
+  "The Guild that controls the most sectors when the event ends wins the ${SECTOR_BLITZ.NAME}.": "イベント終了時に最も多くのセクターを支配するギルドが、${SECTOR_BLITZ.NAME}の勝者です。",
+  "<span class=\"sui-text-warning\">TIP:</span> Use the \"SCAN\" button on the Fleet Menu to find opponents.": "<span class=\"sui-text-warning\">ヒント:</span> 艦隊メニューの「スキャン」ボタンで対戦相手を探せます。",
+  "sui-text-header\">Scoring</div>": "sui-text-header\">得点</div>",
+  "'Win an Offensive Raid'": "'襲撃に勝利'",
+  "'King of the Hill Bonus'": "'占領ボーナス'",
+  "$keep": [
+    "IP"
+  ]
+}

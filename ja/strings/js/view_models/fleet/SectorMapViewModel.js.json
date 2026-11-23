@@ -1,0 +1,8 @@
+{
+  ">Select Sector</span>": ">セクターを選択</span>",
+  "data-sui-tooltip=\"Scroll, Click-and-Drag or swipe to navigate the map.\"": "data-sui-tooltip=\"スクロール、ドラッグ、スワイプで地図を移動できます。\"",
+  "data-sui-tooltip=\"The guild currently controlling this sector.\"": "data-sui-tooltip=\"現在このセクターを支配しているギルドです。\"",
+  ">Scan Sector</a>": ">セクターをスキャン</a>",
+  "MenuPage.setPageTemplateHeaderBtn('Sector Map',": "MenuPage.setPageTemplateHeaderBtn('セクターマップ',",
+  "alt=\"Map of the contested sectors\"": "alt=\"係争セクターの地図\""
+}

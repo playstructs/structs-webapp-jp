@@ -1,0 +1,5 @@
+{
+  "<span class=\"sui-text-header\">Raid Log</span>": "<span class=\"sui-text-header\">襲撃ログ</span>",
+  "MenuPage.setPageTemplateHeaderBtn('Fleet Status');": "MenuPage.setPageTemplateHeaderBtn('艦隊の状況');",
+  "<span class=\"sui-text-header\">Base Log</span>": "<span class=\"sui-text-header\">基地ログ</span>"
+}

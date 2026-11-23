@@ -1,0 +1,9 @@
+{
+  "<span class=\"sui-text-display\">Alpha Matter</span>": "<span class=\"sui-text-display\">アルファマター</span>",
+  "data-sui-tooltip=\"Alpha Matter fuels faster-than-light travel and provides power to the galaxy.\"": "data-sui-tooltip=\"アルファマターは超光速航行の燃料であり、銀河に電力を供給しています。\"",
+  ">Alpha Matter</a>\n      is a rare and powerful substance that fuels galactic civilization. Unfortunately, it is dangerously unstable.`": ">アルファマター</a>は、銀河文明を動かす希少かつ強力な物質です。残念ながら、危険なほど不安定です。`",
+  "'SN.Corporation'": "'{{guild}}'",
+  "$keep": [
+    "Ap - 52.456u"
+  ]
+}

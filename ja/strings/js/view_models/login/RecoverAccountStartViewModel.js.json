@@ -1,0 +1,9 @@
+{
+  "'Recover Account'": "'アカウントの復元'",
+  "waitingOptions.waitingMessage = 'Recovering your account.';": "waitingOptions.waitingMessage = 'アカウントを復元しています。';",
+  "<div>Please enter the 12-word Recovery Key associated with your account.</div>": "<div>アカウントの復元キー(12単語)を入力してください。</div>",
+  ">What is my Recovery Key?</a>": ">復元キーとは?</a>",
+  "<span>Recovery Key</span>": "<span>復元キー</span>",
+  "placeholder=\"word word word ...\"": "placeholder=\"単語 単語 単語 ...\"",
+  ">Next</button>": ">次へ</button>"
+}

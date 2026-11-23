@@ -1,0 +1,9 @@
+{
+  "alt=\"Guild ${guildSearchResultDTO.name}'s logo\"": "alt=\"ギルド ${guildSearchResultDTO.name}のロゴ\"",
+  ": `Guild #${guildSearchResultDTO.guild_id}`;": ": `ギルド #${guildSearchResultDTO.guild_id}`;",
+  "'Number of members in the guild',": "'ギルドのメンバー数',",
+  "'Alpha infused with the guild',": "'ギルドに注入されたアルファ',",
+  ">View</a>": ">表示</a>",
+  "`<div>Guild has no members yet.</div>`": "`<div>ギルドにはまだメンバーがいません。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Guilds Directory',": "MenuPage.setPageTemplateHeaderBtn('ギルド一覧',"
+}

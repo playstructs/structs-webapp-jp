@@ -1,0 +1,12 @@
+{
+  "`${highlight('Priority Alert:')} Rival factions have launched a series of Raids against our assets in an effort to destabilize key ${highlight('Galactic Sectors')}.`": "`${highlight('緊急警報:')} 敵対勢力が主要な${highlight('銀河セクター')}を揺るがすべく、我々の資産に相次いで襲撃を仕掛けてきました。`",
+  "`This cannot go unanswered. You are being re-tasked to ${highlight('Operation: Sector Blitz')}.`": "`これを見過ごすわけにはいきません。あなたを${highlight('セクターブリッツ作戦')}に転属します。`",
+  "`Your objective is to secure our influence in each Sector by launching ${highlight('Raids')} against rival factions.`": "`任務は、敵対勢力への${highlight('襲撃')}によって、各セクターにおける我々の影響力を確保することです。`",
+  "`You can launch Raids and track our progress from the ${highlight('Fleet Menu')}. Click your Profile Picture to access the menu.`": "`襲撃の開始と戦況の確認は${highlight('艦隊メニュー')}から行えます。プロフィール画像をクリックするとメニューが開きます。`",
+  "numbers.length === 2 ? 'sectors' : 'sector'": "numbers.length === 2 ? 'セクター' : 'セクター'",
+  "used the opportunity to establish a firm grasp on key galactic sectors, securing ${sectorList(winner.sectors)}.`": "がこの機に乗じて主要な銀河セクターを確実に掌握し、${sectorList(winner.sectors)}を確保しました。`",
+  "secured ${sectorList(other.sectors)}`": "が${sectorList(other.sectors)}`",
+  "used the opportunity to establish a firm grasp on galactic ${sectorList(first.sectors)} while ${SectorBlitzFormat.list(otherClauses)}.`": "がこの機に乗じて銀河の${sectorList(first.sectors)}を確実に掌握し、${SectorBlitzFormat.list(otherClauses)}をそれぞれ確保しました。`",
+  "`${highlight('Update:')} Operation: Sector Blitz has ended. Activity in the disputed systems is returning to normal.`": "`${highlight('状況報告:')} セクターブリッツ作戦は終了しました。係争星系の活動は平常に戻りつつあります。`",
+  "'A complete report can be viewed in the Fleet Menu.'": "'詳しい報告は艦隊メニューで確認できます。'"
+}

@@ -1,0 +1,10 @@
+{
+  "alt=\"SNC logo\"": "alt=\"{{guild}}のロゴ\"",
+  ">WE KNOW BETTER.</h2>": ">{{motto}}</h2>",
+  "`You have been contracted by SN.CORPORATION, a member of the": "`あなたは",
+  "data-sui-tooltip=\"A loose federation of machine states with the goal of [REDACTED]\"": "data-sui-tooltip=\"機械国家の緩やかな連合体。目的は[検閲済み]\"",
+  ">Structs Conglomerate</a>,": ">ストラクト連合</a>に加盟する{{guild}}と契約を結び、",
+  "to conduct Alpha Matter mining operations in the Milky Way Galaxy.`": "天の川銀河でアルファマターの採掘に従事することとなりました。`",
+  "'SN.Corporation'": "'{{guild}}'",
+  "src=\"/img/logo-snc.gif\"": "src=\"{{badge}}\""
+}

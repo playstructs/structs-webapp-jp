@@ -1,0 +1,7 @@
+{
+  "'Recover Account'": "'アカウントの復元'",
+  "Invalid Recovery Key": "復元キーが正しくありません",
+  "<div>The Recovery Key provided did not match any known account. Please ensure each word is spelled correctly and is entered in the correct order.</div>": "<div>入力された復元キーに一致するアカウントがありません。各単語の綴りと順序が正しいか確認してください。</div>",
+  ">Try Again</button>": ">もう一度試す</button>",
+  "Log In From Another Device": "別の端末からログイン"
+}

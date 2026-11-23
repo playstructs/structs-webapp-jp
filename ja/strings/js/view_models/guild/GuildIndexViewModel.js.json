@@ -1,0 +1,10 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Guild Status');": "MenuPage.setPageTemplateHeaderBtn('ギルドの状況');",
+  "<span class=\"sui-text-header\">Alpha Reactor</span>": "<span class=\"sui-text-header\">アルファリアクター</span>",
+  "\">${alphaInfused} Alpha Infused</div>": "\">注入済みアルファ ${alphaInfused}</div>",
+  "<span class=\"sui-text-header\">Guild Profile</span>": "<span class=\"sui-text-header\">ギルドプロフィール</span>",
+  "<span class=\"sui-text-header\">Member Roster</span>": "<span class=\"sui-text-header\">メンバー名簿</span>",
+  "\">${memberCount} Members</div>": "\">メンバー ${memberCount}人</div>",
+  "<span class=\"sui-text-header\">Guilds Directory</span>": "<span class=\"sui-text-header\">ギルド一覧</span>",
+  "\">${guildCount} Guilds</div>": "\">ギルド ${guildCount}</div>"
+}

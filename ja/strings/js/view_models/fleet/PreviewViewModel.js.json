@@ -1,0 +1,8 @@
+{
+  "'Undiscovered Ore',": "'未発見の鉱石',",
+  "'Ore Mined',": "'採掘した鉱石',",
+  ">Launch Fleet</a>": ">艦隊を出撃</a>",
+  "$keep": [
+    "PID #"
+  ]
+}

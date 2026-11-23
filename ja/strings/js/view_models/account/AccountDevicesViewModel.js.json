@@ -1,0 +1,9 @@
+{
+  "location = `[Primary Device]<br>${location}`;": "location = `[メイン端末]<br>${location}`;",
+  "deviceInfoList.push('This Device');": "deviceInfoList.push('この端末');",
+  "deviceInfoList.push(`${userAgent.getBrowser()} Browser`);": "deviceInfoList.push(`${userAgent.getBrowser()} ブラウザ`);",
+  "deviceInfoList.push(`Last Activity: ${lastActivity}`);": "deviceInfoList.push(`最終利用: ${lastActivity}`);",
+  ">Manage</a>": ">管理</a>",
+  "        'Devices',\n": "        '端末',\n",
+  "sui-mod-primary\">Activate New Device</button>": "sui-mod-primary\">新しい端末を登録</button>"
+}

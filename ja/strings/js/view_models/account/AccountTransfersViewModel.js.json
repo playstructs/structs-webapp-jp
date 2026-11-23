@@ -1,0 +1,5 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Transfers',": "MenuPage.setPageTemplateHeaderBtn('送付',",
+  "<span class=\"sui-text-header\">Send Alpha</span>": "<span class=\"sui-text-header\">アルファを送付</span>",
+  "<span class=\"sui-text-header\">Transaction History</span>": "<span class=\"sui-text-header\">履歴</span>"
+}

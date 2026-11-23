@@ -1,0 +1,9 @@
+{
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"アカウント作成時に控えた単語です。\"",
+  ">Recovery Key</a>`;": ">復元キー</a>`;",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = 'この端末からログアウトしますか?';",
+  "This device's key will be removed from this browser. To play here again you will need your": "このブラウザからこの端末のログイン情報が削除されます。再びここでプレイするには",
+  "view.messageHeaderText = 'Log out this device?';": "view.messageHeaderText = 'この端末をログアウトさせますか?';",
+  "It will lose access to your account. To play on it again you will need your": "この端末はアカウントにアクセスできなくなります。再びその端末でプレイするには",
+  "${recoveryKey}\n        or approval from another device.": "${recoveryKey}または\n        別の端末からの承認が必要です。"
+}

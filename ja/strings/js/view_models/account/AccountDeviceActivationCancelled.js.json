@@ -1,0 +1,8 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('新しい端末を登録');",
+  "sui-mod-primary\">Return to Account</button>": "sui-mod-primary\">アカウントに戻る</button>",
+  "'Activation Failed'": "'登録失敗'",
+  "'Activation Cancelled'": "'登録キャンセル'",
+  "'The approval did not go through, so the new device has not been activated. Nothing on your account has changed.'": "'承認が完了しなかったため、新しい端末は登録されていません。アカウントに変更はありません。'",
+  "'The new device has not been activated.'": "'新しい端末は登録されていません。'"
+}

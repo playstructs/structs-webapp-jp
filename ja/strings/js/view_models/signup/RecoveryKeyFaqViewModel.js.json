@@ -1,0 +1,14 @@
+{
+  "pageHeader.pageLabel = 'About Recovery Keys';": "pageHeader.pageLabel = '復元キーについて';",
+  ">What is a Recovery Key?</div>": ">復元キーとは何ですか?</div>",
+  "<div>Your recovery key is the 12-word secret code that was given to you when you created your account.</div>": "<div>復元キーは、アカウント作成時に発行された12単語の秘密のコードです。</div>",
+  ">Why do I need my Recovery Key?</div>": ">復元キーはなぜ必要ですか?</div>",
+  "<div>In the event that you lose access to your account, you can use your Recovery Key to log in.</div>": "<div>アカウントにアクセスできなくなった場合に、復元キーを使ってログインできます。</div>",
+  ">How can I protect my Recovery Key?</div>": ">復元キーはどう守ればよいですか?</div>",
+  "<div>It is important to write down your Recovery Key and keep it in a safe place. You may also consider saving your Recovery Key to a password manager. We do not store Recovery Keys and cannot help you retrieve your Key if you lose it.</div>": "<div>復元キーを書き留め、安全な場所に保管することが大切です。パスワードマネージャーに保存するのもよいでしょう。当方では復元キーを保存していないため、紛失した場合に取り戻すお手伝いはできません。</div>",
+  ">I want to log in on a new device. Do I need my recovery Key?</div>": ">新しい端末でログインしたいのですが、復元キーは必要ですか?</div>",
+  "<div>No. If you currently have access to a logged-in device, you can log in a new device by using the <a": "<div>いいえ。ログイン中の端末を使える場合は、 <a",
+  ">Login From Another Device</a> option.<br>": ">別の端末からログイン</a>で新しい端末にログインできます。<br>",
+  "Note: this option is only available if the logged-in device has Account Management permissions.<br>": "注意: この方法は、ログイン中の端末に「端末の管理」権限がある場合にのみ使えます。<br>",
+  "If you have no currently logged-in devices with Account Management permissions, you will need to use your Recovery Key to log in again.": "「端末の管理」権限を持つログイン中の端末がない場合は、復元キーで再度ログインする必要があります。"
+}

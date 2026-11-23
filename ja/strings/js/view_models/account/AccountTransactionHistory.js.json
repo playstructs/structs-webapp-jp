@@ -1,0 +1,10 @@
+{
+  "              Transaction #${transaction.id}\n": "              送付 #${transaction.id}\n",
+  "<span class=\"sui-badge sui-mod-default\">Completed</span>": "<span class=\"sui-badge sui-mod-default\">完了</span>",
+  ">View</a>": ">表示</a>",
+  "`<div>No confirmed alpha transactions yet.</div>`": "`<div>完了したアルファの送付はまだありません。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction History',": "MenuPage.setPageTemplateHeaderBtn('履歴',",
+  "$keep": [
+    "Account"
+  ]
+}

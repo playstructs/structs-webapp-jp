@@ -1,0 +1,11 @@
+{
+  "{% block title %}Structs{% endblock %}": "{% block title %}ストラクト{% endblock %}",
+  "href=\"javascript:void(0)\">Structs</a>": "href=\"javascript:void(0)\">ストラクト</a>",
+  "alt=\"Structs logo with animated progress bar\"": "alt=\"進行状況バー付きのストラクトのロゴ\"",
+  "<h1>Loading Assets</h1>": "<h1>アセットを読み込み中</h1>",
+  "$keep": [
+    "{% extends 'base.html.twig' %}",
+    "{% block body %}",
+    "{% endblock %}"
+  ]
+}

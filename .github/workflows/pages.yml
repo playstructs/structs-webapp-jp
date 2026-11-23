@@ -1,0 +1,66 @@
+# Builds the static site and publishes it to GitHub Pages.
+#
+# One-time setup: Settings › Pages › Source: "GitHub Actions". The page and its
+# assets use absolute paths (/js, /img, /lottie, as structs-webapp does), so the
+# site must be served from the root of its domain: a custom domain, not
+# <owner>.github.io/structs-webapp-jp/.
+#
+# Optional repository variables (Settings › Secrets and variables › Actions ›
+# Variables) set the build's JA_* values; see README.md › Which guild.
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Until the guild is founded, sign-ups would join its stand-in (ja/guild.cjs).
+      - run: node -e "if (!require('./ja/guild.cjs').founded) { console.error('The guild is not founded'); process.exit(1) }"
+
+      - run: npm ci
+
+      - uses: actions/configure-pages@v5
+
+      - run: npm test
+
+      - run: npm run build
+        env:
+          JA_LCD_URL: ${{ vars.JA_LCD_URL }}
+          JA_GUILD_API: ${{ vars.JA_GUILD_API }}
+          JA_GRASS_URL: ${{ vars.JA_GRASS_URL }}
+          JA_CHAIN_WS: ${{ vars.JA_CHAIN_WS }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

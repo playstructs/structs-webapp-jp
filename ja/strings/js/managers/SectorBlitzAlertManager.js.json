@@ -1,0 +1,3 @@
+{
+  "`Guild ${row.guild_id}`": "`ギルド ${row.guild_id}`"
+}

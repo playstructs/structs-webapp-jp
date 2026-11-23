@@ -1,0 +1,5 @@
+{
+  ">Victory!</strong> The enemy\\'s planetary shield has been defeated.'": ">勝利!</strong> 敵の惑星シールドを打ち破りました。'",
+  "`You recovered <strong class=\"sui-text-primary\">${this.alphaOreRecovered} Alpha Ore</strong> from the enemy base.`": "`敵基地から<strong class=\"sui-text-primary\">アルファ鉱石 ${this.alphaOreRecovered}</strong>を獲得しました。`",
+  "'Your fleet will now return to base.'": "'艦隊は基地に帰還します。'"
+}

@@ -1,0 +1,13 @@
+{
+  "options.headerBtnLabel = 'Transferring...';": "options.headerBtnLabel = '送付中...';",
+  "'The transfer continues if you leave this screen.'": "'この画面を離れても送付は続きます。'",
+  "'Confirmed on chain. Your transfer history has not caught up yet; check it again shortly.'": "'送付が完了しました。履歴への反映が遅れています。しばらくしてから再度ご確認ください。'",
+  "let html = 'Non-Player Address';": "let html = 'プレイヤー以外のアカウント';",
+  ": 'Name Redacted';": ": '名前非公開';",
+  "MenuPage.setPageTemplateHeaderBtn('Confirm Transfer',": "MenuPage.setPageTemplateHeaderBtn('送付の確認',",
+  "sui-text-header\">Transaction Details</div>": "sui-text-header\">送付の詳細</div>",
+  "<div>Amount</div>": "<div>数量</div>",
+  "<div>Recipient</div>": "<div>送付先</div>",
+  ">Cancel</a>": ">キャンセル</a>",
+  ">Transfer Now</a>": ">今すぐ送付</a>"
+}

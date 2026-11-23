@@ -1,0 +1,11 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          アドレス ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": '名前非公開'",
+  ">View</a>": ">表示</a>",
+  "<div>No results found. Please try a different search term.</div>": "<div>見つかりませんでした。別の検索語をお試しください。</div>",
+  "<div>Showing the first 25 results. Try narrowing your search for better results.</div>": "<div>最初の25件を表示しています。検索を絞り込むとより良い結果が得られます。</div>",
+  "MenuPage.setPageTemplateHeaderBtn('Search Results',": "MenuPage.setPageTemplateHeaderBtn('検索結果',",
+  "$keep": [
+    "PID #"
+  ]
+}

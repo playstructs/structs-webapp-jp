@@ -1,0 +1,14 @@
+{
+  "'A slow Ninja presentation'": "'Slow Ninja 提供'",
+  "'Thousands of years ago, the inhabitants of the Milky Way discovered a dangerously unstable new element -- Alpha Matter, the fuel of galactic civilization.'": "'数千年前、天の川銀河の住人たちは、危険なほど不安定な新元素を発見した。銀河文明の燃料、アルファマターである。'",
+  "'In 3029, a catastrophic Alpha mining accident obliterated the Hoag star system, extinguishing 2 billion souls. The galaxy teetered on the brink of civil war.'": "'3029年、アルファ採掘の大事故がホーグ星系を消し去り、20億の命が失われた。銀河は内戦の瀬戸際に立たされた。'",
+  "'The Alpha Star Council decreed only Structs, mysterious machines of unknown origin, could be trusted to mine Alpha Matter.'": "'アルファ星評議会は、起源不明の謎の機械「ストラクト」だけがアルファマターの採掘を任せるに足ると定めた。'",
+  "'The year is 402X.'": "'時は402X年。'",
+  "'Alpha-seeded Worlds controlled by Structs:'": "'ストラクトが支配するアルファ惑星:'",
+  "'Alpha-seeded Worlds controlled by Organics:'": "'有機生命体が支配するアルファ惑星:'",
+  ">Play Me</a>": ">プレイ</a>",
+  "Press <span class=\"tutorial-highlight\">ENTER</span> to Skip": "<span class=\"tutorial-highlight\">ENTER</span>でスキップ",
+  "$keep": [
+    "ENTER"
+  ]
+}

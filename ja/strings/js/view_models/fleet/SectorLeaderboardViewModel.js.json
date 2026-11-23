@@ -1,0 +1,16 @@
+{
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影響力ポイント\"",
+  "'Leaderboard Position'": "'順位'",
+  "'Earned from Raids'": "'襲撃で獲得'",
+  "'KOTH Bonus'": "'占領ボーナス'",
+  "'Sector Score'": "'セクター得点'",
+  "'Total Event Score'": "'イベント合計得点'",
+  ">View</a>": ">表示</a>",
+  ">Your Performance</div>": ">あなたの成績</div>",
+  ">Guild Leaderboard</div>": ">ギルド順位表</div>",
+  ">Player Leaderboard</div>": ">プレイヤー順位表</div>",
+  "'No Activity in Sector'": "'セクターに動きはありません'",
+  "$keep": [
+    "Fleet"
+  ]
+}

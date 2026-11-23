@@ -1,0 +1,8 @@
+{
+  "\"This device doesn't have permission to change the display name. Sign in on a device with management permissions to update it.\"": "\"この端末には表示名を変更する権限がありません。管理権限のある端末でログインして変更してください。\"",
+  "'Change Display Name',": "'表示名の変更',",
+  "\"Name must be 3\\u201320 characters and only include letters, numbers, '-' and '_'.\"": "\"名前は3\\u201320文字で、文字、数字、「-」、「_」だけを使えます。\"",
+  "<span>Display Name</span>": "<span>表示名</span>",
+  "placeholder=\"Type your new display name\"": "placeholder=\"新しい表示名を入力\"",
+  "sui-mod-disabled\" disabled>Submit</button>": "sui-mod-disabled\" disabled>決定</button>"
+}

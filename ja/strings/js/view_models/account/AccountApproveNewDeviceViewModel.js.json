@@ -1,0 +1,14 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('新しい端末を登録');",
+  "<div>The following device is requesting access to your account:</div>": "<div>次の端末がアカウントへのアクセスを求めています:</div>",
+  "sui-text-primary\">New Device</div>": "sui-text-primary\">新しい端末</div>",
+  "<div>${userAgent.getBrowser()} Browser</div>": "<div>${userAgent.getBrowser()} ブラウザ</div>",
+  "<div class=\"sui-text-header\">Device Seal</div>": "<div class=\"sui-text-header\">端末の印章</div>",
+  "sui-text-hint\">Ensure this image matches the one shown on the device to be activated.</div>": "sui-text-hint\">登録する端末に表示されている画像と一致することを確認してください。</div>",
+  "<div>Set permissions for the new device:</div>": "<div>新しい端末の権限を設定してください:</div>",
+  "\">Manage Devices</label>": "\">端末の管理</label>",
+  "\">Transfer Assets</label>": "\">資源の送付</label>",
+  ">Approve Device</a>": ">端末を承認</a>",
+  ">Deny</a>": ">拒否</a>",
+  ">This device can only grant permissions it has itself.</div>": ">この端末が付与できるのは、自身が持つ権限だけです。</div>"
+}

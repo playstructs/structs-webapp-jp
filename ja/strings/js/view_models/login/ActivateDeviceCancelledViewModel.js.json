@@ -1,0 +1,8 @@
+{
+  "'Activate Device'": "'端末の登録'",
+  "Activation Cancelled": "登録キャンセル",
+  "<div>This device has not been logged in.</div>": "<div>この端末はログインしていません。</div>",
+  ">Try Again</button>": ">もう一度試す</button>",
+  "Log In With Recovery Key": "復元キーでログイン",
+  "'<div>Your logged-in device denied this request, or could not approve it.</div>'": "'<div>ログイン中の端末がこの要求を拒否したか、承認できませんでした。</div>'"
+}

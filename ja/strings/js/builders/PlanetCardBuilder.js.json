@@ -1,0 +1,20 @@
+{
+  "alt=\"3 dots loading animation\"": "alt=\"読み込み中\"",
+  "primaryBtnLabel = 'Command';": "primaryBtnLabel = '指揮';",
+  "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = 'アルファをすべて採掘しました。';",
+  "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = '出発';",
+  "alphaBaseCard.alertMessage = 'Depart planet?';": "alphaBaseCard.alertMessage = '惑星を離れますか?';",
+  "`Fleet will travel to an undiscovered world.`": "`艦隊は未発見の惑星へ向かいます。`",
+  "primaryBtnLabel = 'Confirm';": "primaryBtnLabel = '確認';",
+  "secondaryBtnLabel = 'Cancel';": "secondaryBtnLabel = 'キャンセル';",
+  "`Fleet has arrived at ${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name}.`": "`艦隊が${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name}に到着しました。`",
+  "primaryBtnLabel = 'View';": "primaryBtnLabel = '表示';",
+  "secondaryBtnLabel = 'Dismiss';": "secondaryBtnLabel = '閉じる';",
+  "raidCard.generalMessage = 'No Raid active.';": "raidCard.generalMessage = '進行中の襲撃はありません。';",
+  "secondaryBtnLabel = 'Scan';": "secondaryBtnLabel = 'スキャン';",
+  "raidCard.alertMessage = 'No CMD Ship.';": "raidCard.alertMessage = '司令艦がありません。';",
+  "`Fleet has begun raid on ${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()}.`": "`艦隊が${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()}への襲撃を開始しました。`",
+  "secondaryBtnLabel = 'Retreat';": "secondaryBtnLabel = '撤退';",
+  "raidCard.alertMessage = 'Abandon raid?';": "raidCard.alertMessage = '襲撃を中止しますか?';",
+  "`Fleet will return to Alpha Base.`": "`艦隊はアルファ基地に帰還します。`"
+}

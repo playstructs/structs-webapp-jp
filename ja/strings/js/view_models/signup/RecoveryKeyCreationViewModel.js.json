@@ -1,0 +1,11 @@
+{
+  "<span>Display Recovery Key</span>": "<span>復元キーを表示</span>",
+  "'Create Recovery Key',": "'復元キーの作成',",
+  "<div>Write down your 12-word Recovery Key and keep it in a safe place. You will need this Key to recover your account if you log out or clear your browser cache.</div>": "<div>12単語の復元キーを書き留め、安全な場所に保管してください。ログアウトやブラウザのキャッシュ消去の後、アカウントを復元するために必要です。</div>",
+  ">Learn More About Recovery Keys</a>": ">復元キーについて詳しく</a>",
+  "`I've Written It Down`": "`書き留めました`",
+  "'Confirm Recovery Key',": "'復元キーの確認',",
+  ">Incorrect Recovery Key</span>": ">復元キーが正しくありません</span>",
+  "<div>Please review the exact spelling and order of your 12-word Recovery Key below, then try again.</div>": "<div>下の12単語の復元キーの綴りと順序を確認して、もう一度お試しください。</div>",
+  "`Try Again`": "`もう一度試す`"
+}

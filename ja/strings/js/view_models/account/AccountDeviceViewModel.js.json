@@ -1,0 +1,20 @@
+{
+  "options.headerBtnLabel = 'Manage Device';": "options.headerBtnLabel = '端末の管理';",
+  "options.waitingMessage = 'Saving changes.';": "options.waitingMessage = '変更を保存しています。';",
+  "location = `[PRIMARY DEVICE]<br>${location}`;": "location = `[メイン端末]<br>${location}`;",
+  "sui-text-secondary\">Primary Device Logout</div>": "sui-text-secondary\">メイン端末のログアウト</div>",
+  "sui-text-ticker\">Remote logout is not available for primary devices. Please log out using the primary device itself.</div>": "sui-text-ticker\">メイン端末は遠隔でログアウトできません。メイン端末から直接ログアウトしてください。</div>",
+  ">Log Out</a>": ">ログアウト</a>",
+  "        'Manage Device',\n": "        '端末の管理',\n",
+  "<div>${userAgent.getBrowser()} Browser</div>": "<div>${userAgent.getBrowser()} ブラウザ</div>",
+  "<div>Device permissions:</div>": "<div>端末の権限:</div>",
+  "\">\n                Manage Devices\n": "\">\n                端末の管理\n",
+  "data-sui-tooltip=\"The ability to logout other devices or change their permissions.\"": "data-sui-tooltip=\"他の端末をログアウトさせたり、権限を変更したりできます。\"",
+  "\">\n                Transfer Assets\n": "\">\n                資源の送付\n",
+  "data-sui-tooltip=\"The ability to send Alpha to other accounts.\"": "data-sui-tooltip=\"他のアカウントにアルファを送付できます。\"",
+  ">Cancel</a>": ">キャンセル</a>",
+  ">Save</a>": ">保存</a>",
+  "This is the only device that can manage devices, so it must keep this permission.\n              Give Manage Devices to another device first.": "端末を管理できるのはこの端末だけなので、この権限は外せません。\n              先に別の端末に「端末の管理」権限を付与してください。",
+  "The primary device always keeps full access, so its permissions cannot be changed.": "メイン端末は常にすべての権限を持つため、権限は変更できません。",
+  ">Your changes were not saved. Please try again.</div>": ">変更を保存できませんでした。もう一度お試しください。</div>"
+}

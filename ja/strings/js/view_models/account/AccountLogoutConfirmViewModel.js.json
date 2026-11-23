@@ -1,0 +1,9 @@
+{
+  "view.headerBtnLabel = 'Log Out';": "view.headerBtnLabel = 'ログアウト';",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = 'この端末からログアウトしますか?';",
+  "This device's key will be removed from this browser. To play here again you will need your": "このブラウザからこの端末のログイン情報が削除されます。再びここでプレイするには",
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"アカウント作成時に控えた単語です。\"",
+  ">Recovery Key</a>\n      or approval from another device.": ">復元キー</a>または\n      別の端末からの承認が必要です。",
+  "view.confirmBtn1Label = 'Stay Logged In';": "view.confirmBtn1Label = 'ログインを維持';",
+  "view.confirmBtn2Label = 'Log Out';": "view.confirmBtn2Label = 'ログアウト';"
+}

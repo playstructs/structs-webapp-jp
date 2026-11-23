@@ -1,0 +1,10 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          アドレス ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": '名前非公開'",
+  ">View</a>": ">表示</a>",
+  "`<div>Guild has no members yet.</div>`": "`<div>ギルドにはまだメンバーがいません。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Member Roster',": "MenuPage.setPageTemplateHeaderBtn('メンバー名簿',",
+  "$keep": [
+    "PID #"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  ">Event Leaderboard</h1>": ">イベント順位表</h1>",
+  "${SectorBlitzFormat.sectorLabel(this.sector)} Leaderboard</h1>": "${SectorBlitzFormat.sectorLabel(this.sector)} 順位表</h1>",
+  "return 'N/A';": "return 'なし';",
+  "'Sector data is currently unavailable.'": "'現在セクターの情報を取得できません。'",
+  "'Event Results'": "'イベント結果'",
+  "`${this.remainingText(summary)} Remaining`": "`残り ${this.remainingText(summary)}`",
+  "alt=\"Structs\"": "alt=\"ストラクト\"",
+  "public-leaderboard-play-btn\">Play Now</a>": "public-leaderboard-play-btn\">今すぐプレイ</a>",
+  "`${SectorBlitzFormat.sectorLabel(this.sector)} Statistics`": "`${SectorBlitzFormat.sectorLabel(this.sector)} 統計`",
+  "emptyHTML('Currently unavailable')": "emptyHTML('現在利用できません')",
+  "'Top Guilds'": "'上位ギルド'",
+  "'Top Players'": "'上位プレイヤー'",
+  "'No Activity'": "'動きなし'",
+  "public-battle-spectate-btn\">Spectate</a>": "public-battle-spectate-btn\">観戦</a>",
+  "'Current Battles'": "'進行中の戦闘'",
+  "'No Battles in Progress'": "'進行中の戦闘はありません'"
+}

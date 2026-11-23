@@ -1,0 +1,35 @@
+/*
+ * Japanese for structs-webapp's fonts.
+ *
+ * DirectiveZero and ExtremeHazard are Latin-only. Rather than restyle every
+ * rule that uses them, each family gains a second face that covers only the
+ * Japanese ranges, set in Galmuri11 (SIL OFL 1.1), a pixel font that has kana
+ * and 6,477 kanji. The browser takes Japanese from it and everything else from
+ * webapp's own fonts; a rarer kanji in a name falls back to a system font.
+ */
+
+@font-face {
+  font-family: DirectiveZero;
+  src: url(/ja/fonts/Galmuri11.woff2) format('woff2');
+  unicode-range: U+3000-30FF, U+31F0-31FF, U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+FF01-FF9F;
+}
+
+/*
+ * webapp sets ExtremeHazard, a small-caps pixel face, at 8px for buttons,
+ * tabs and labels: too small for kanji. At 150% it is 12px, the size Galmuri11
+ * is drawn for. The Bold cut has no Japanese, so the Regular is used here too.
+ */
+@font-face {
+  font-family: ExtremeHazard;
+  src: url(/ja/fonts/Galmuri11.woff2) format('woff2');
+  unicode-range: U+3000-30FF, U+31F0-31FF, U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+FF01-FF9F;
+  size-adjust: 150%;
+}
+
+/* Japanese breaks between phrases where the browser can tell, and never
+   before a small kana, a long-vowel mark or closing punctuation. */
+html:lang(ja) body {
+  line-break: strict;
+  word-break: auto-phrase;
+  overflow-wrap: anywhere;
+}

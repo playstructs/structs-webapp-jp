@@ -1,0 +1,10 @@
+{
+  "pageHeader.pageLabel = 'Confirm Recovery Key';": "pageHeader.pageLabel = '復元キーの確認';",
+  "<div>To confirm your Recovery Key, enter each word, in order, separated by spaces.</div>": "<div>復元キーを確認するため、各単語を空白で区切って順番どおりに入力してください。</div>",
+  "<span>Confirm Recovery Key</span>": "<span>復元キーの確認</span>",
+  "placeholder=\"word word word ...\"": "placeholder=\"単語 単語 単語 ...\"",
+  ">Next</button>": ">次へ</button>",
+  "submitBtn.textContent = 'Signing Up...';": "submitBtn.textContent = '登録中...';",
+  "submitBtn.textContent = 'Try Again';": "submitBtn.textContent = 'もう一度試す';",
+  "We couldn't complete your signup. The guild may be temporarily unavailable. Please try again in a moment.": "登録を完了できませんでした。ギルドが一時的に応答していない可能性があります。しばらくしてからもう一度お試しください。"
+}

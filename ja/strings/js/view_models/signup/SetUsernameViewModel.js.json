@@ -1,0 +1,10 @@
+{
+  "Only <strong>letters</strong>, <strong>numbers</strong>, <strong>-</strong> and <strong>_</strong> are allowed. <strong>Length</strong> must be between <strong>3</strong> and <strong>20</strong> characters.": "使えるのは<strong>文字</strong>、<strong>数字</strong>、<strong>-</strong>、<strong>_</strong>だけです。<strong>長さ</strong>は<strong>3</strong>文字以上<strong>20</strong>文字以下にしてください。",
+  "<div class=\"set-username-profile-created\">Profile Created</div>": "<div class=\"set-username-profile-created\">プロフィールを作成しました</div>",
+  "`Welcome, ${this.gameState.signupRequest.username}.`": "`ようこそ、${this.gameState.signupRequest.username}さん。`",
+  "<span>Display Name</span>": "<span>表示名</span>",
+  "placeholder=\"Your Name\"": "placeholder=\"あなたの名前\"",
+  ">Submit</button>": ">決定</button>",
+  "`To begin, please confirm your identity.`": "`はじめに、ご本人の確認をお願いいたします。`",
+  "'SN.Corporation'": "'{{guild}}'"
+}

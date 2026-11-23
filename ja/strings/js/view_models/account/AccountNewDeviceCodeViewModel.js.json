@@ -1,0 +1,8 @@
+{
+  "      'Activate New Device',\n": "      '新しい端末を登録',\n",
+  "sui-mod-primary\">Generate Activation Code</button>": "sui-mod-primary\">登録コードを発行</button>",
+  "sui-mod-primary\">Activation Code</div>": "sui-mod-primary\">登録コード</div>",
+  "sui-mod-primary\">Generate New Code</button>": "sui-mod-primary\">新しいコードを発行</button>",
+  "<div class=\"sui-text-warning\">Do not close this screen until activation is complete.</div>": "<div class=\"sui-text-warning\">登録が完了するまで、この画面を閉じないでください。</div>",
+  "<div>Enter the above code on the Returning Player screen on your new device to activate it.</div>": "<div>新しい端末の「既存プレイヤー」画面で上のコードを入力すると登録できます。</div>"
+}

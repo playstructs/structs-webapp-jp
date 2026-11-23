@@ -1,0 +1,7 @@
+{
+  "username: 'Trainee',": "username: '訓練生',",
+  "username: 'Raider',": "username: '襲撃者',",
+  "name: 'Training Grounds',": "name: '訓練場',",
+  "'SN.Corporation'": "'{{guild}}'",
+  "tag: 'SNC',": "tag: '{{tag}}',"
+}

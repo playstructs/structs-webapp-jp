@@ -1,0 +1,14 @@
+{
+  "'Loading...', TUTORIAL_COPY": "'読み込み中...', TUTORIAL_COPY",
+  "'Restart Tutorial?'": "'訓練をやり直しますか?'",
+  "'Are you sure you want to restart the tutorial? Your progress will be reset.'": "'戦闘訓練を最初からやり直しますか? 進行状況は失われます。'",
+  "'Restart Tutorial',": "'訓練をやり直す',",
+  "'Abandon Tutorial?'": "'訓練を中断しますか?'",
+  "'Are you sure you want to abandon the tutorial? You can revisit the tutorial later from the menu.'": "'戦闘訓練を中断しますか? 後からメニューで受けられます。'",
+  "'Abandon Tutorial',": "'訓練を中断',",
+  "'Status',": "'状況',",
+  "'CMD Ship jumping to a new planet'": "'新しい惑星へジャンプする司令艦'",
+  "$keep": [
+    "Tutorial"
+  ]
+}

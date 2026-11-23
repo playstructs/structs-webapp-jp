@@ -1,0 +1,12 @@
+{
+  "let html = 'Non-Player Address';": "let html = 'プレイヤー以外のアカウント';",
+  ": 'Name Redacted';": ": '名前非公開';",
+  "? `Player Details` : 'Recipient Details';": "? `プレイヤー情報` : '送付先の情報';",
+  "<div>Guild</div>": "<div>ギルド</div>",
+  "            Player ID\n": "            プレイヤーID\n",
+  "data-sui-tooltip=\"The unique in-game identifier for the player.\"": "data-sui-tooltip=\"ゲーム内でプレイヤーを識別する固有の番号です。\"",
+  "            Blockchain Address\n": "            アカウントアドレス\n",
+  "data-sui-tooltip=\"The public wallet address for the player.\"": "data-sui-tooltip=\"プレイヤーの公開アカウントアドレスです。\"",
+  "MenuPage.setPageTemplateHeaderBtn('Recipient',": "MenuPage.setPageTemplateHeaderBtn('送付先',",
+  ">Select This Player</a>": ">このプレイヤーを選択</a>"
+}

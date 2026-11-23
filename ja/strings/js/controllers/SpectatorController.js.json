@@ -1,0 +1,17 @@
+{
+  "title: 'Spectating',": "title: '観戦中',",
+  "'Connecting to the battle...'": "'戦闘に接続中...'",
+  "'This battle could not be loaded. It may have just ended. Try again from the Event Leaderboard.'": "'この戦闘を読み込めませんでした。終了した直後かもしれません。イベント順位表からもう一度お試しください。'",
+  "'This battle is over. Pick another from Current Battles on the Event Leaderboard.'": "'この戦闘は終了しました。イベント順位表の「進行中の戦闘」から別の戦闘を選んでください。'",
+  "'Sector Blitz is not running right now, so there are no battles to watch.'": "'現在セクターブリッツは開催されていないため、観戦できる戦闘はありません。'",
+  "|| 'The defender')": "|| '防衛側')",
+  "|| 'The attacker')": "|| '攻撃側')",
+  "`${attacker} won the raid.`": "`${attacker}の襲撃が成功しました。`",
+  "`${defender} defended the planet.`": "`${defender}が惑星を守り抜きました。`",
+  "`${attacker} retreated. ${defender} keeps the planet.`": "`${attacker}は撤退し、${defender}の惑星は守られました。`",
+  "`${defender}'s planet was demilitarized.`": "`${defender}の惑星は非武装化されました。`",
+  "`Battle over. ${": "`戦闘終了。${",
+  "$keep": [
+    "Spectator"
+  ]
+}

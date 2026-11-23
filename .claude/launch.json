@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {"name": "structs-jp", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev"], "port": 5183},
+    {"name": "structs-jp-dist", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "5184", "--directory", "dist"], "port": 5184}
+  ]
+}

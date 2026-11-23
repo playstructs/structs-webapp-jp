@@ -1,0 +1,6 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('新しい端末を登録');",
+  "alt=\"3 dots loading animation\"": "alt=\"読み込み中\"",
+  "Activating device<br>": "端末を登録中<br>",
+  "<span class=\"sui-text-warning\">Do not close this screen.</span>": "<span class=\"sui-text-warning\">この画面を閉じないでください。</span>"
+}

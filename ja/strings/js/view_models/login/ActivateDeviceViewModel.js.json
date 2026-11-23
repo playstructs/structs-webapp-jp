@@ -1,0 +1,10 @@
+{
+  "'Activation Code is invalid or has expired.'": "'登録コードが正しくないか、期限が切れています。'",
+  "'Activate Device'": "'端末の登録'",
+  "<div>To receive an activation code, go to <span class=\"sui-text-secondary\">Account > Devices</span> on any logged in device.</div>": "<div>登録コードは、ログイン中の端末の<span class=\"sui-text-secondary\">アカウント > 端末</span>で発行できます。</div>",
+  "<span>Activation Code</span>": "<span>登録コード</span>",
+  "placeholder=\"Enter Code\"": "placeholder=\"コードを入力\"",
+  ">Submit</button>": ">決定</button>",
+  "<div>Not logged in anywhere else?</div>": "<div>他にログイン中の端末がありませんか?</div>",
+  "Log In With Recovery Key": "復元キーでログイン"
+}

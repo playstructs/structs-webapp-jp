@@ -1,0 +1,17 @@
+{
+  "`Alpha will be removed from your inventory and added to the reactor.`": "`アルファは所持品から取り出され、リアクターに追加されます。`",
+  "`Alpha will be removed from the reactor and put on cooldown.`": "`アルファはリアクターから取り出され、クールダウンに入ります。`",
+  "The Guild Minimum is ${this.joinInfusionMinimum} Alpha Matter.": "ギルド最低量は${this.joinInfusionMinimum}アルファマターです。",
+  "? 'Infusing...' : 'Defusing...';": "? '注入中...' : '回収中...';",
+  "'The change continues if you leave this screen.'": "'この画面を離れても変更は続きます。'",
+  "'Confirmed on chain. The reactor display has not caught up yet; check it again shortly.'": "'変更が完了しました。リアクターの表示への反映が遅れています。しばらくしてから再度ご確認ください。'",
+  "MenuPage.setPageTemplateHeaderBtn('Manage Alpha',": "MenuPage.setPageTemplateHeaderBtn('アルファ管理',",
+  "alt=\"alpha reactor\"": "alt=\"アルファリアクター\"",
+  "'Alpha to infuse',": "'注入するアルファ',",
+  "'Expected energy supply',": "'予想エネルギー供給量',",
+  "sui-mod-secondary\">Cancel</a>": "sui-mod-secondary\">キャンセル</a>",
+  "sui-mod-primary\">Save Changes</a>": "sui-mod-primary\">変更を保存</a>",
+  "$keep": [
+    "[ManageAlpha] reactor state unavailable:"
+  ]
+}

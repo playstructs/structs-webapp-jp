@@ -1,0 +1,7 @@
+{
+  "view.headerBtnLabel = 'Combat Tutorial';": "view.headerBtnLabel = '戦闘訓練';",
+  "view.messageHeaderText = 'Start Tutorial?';": "view.messageHeaderText = '訓練を開始しますか?';",
+  "'Your Structs will continue to operate normally in the background. You can exit the tutorial at any time from the main menu.'": "'ストラクトは裏側で通常どおり稼働を続けます。訓練はメインメニューからいつでも終了できます。'",
+  "view.confirmBtn1Label = 'Start Tutorial';": "view.confirmBtn1Label = '訓練を開始';",
+  "view.confirmBtn2Label = 'Cancel';": "view.confirmBtn2Label = 'キャンセル';"
+}

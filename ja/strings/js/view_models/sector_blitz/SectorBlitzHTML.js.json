@@ -1,0 +1,21 @@
+{
+  "emptyHTML(message = 'No Activity')": "emptyHTML(message = '動きなし')",
+  "\n          Other\n": "\n          その他\n",
+  "'No Winner'": "'勝者なし'",
+  ">Winning Guild</div>": ">優勝ギルド</div>",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影響力ポイント\"",
+  "sui-mod-default\">Defender</span>": "sui-mod-default\">防衛側</span>",
+  "sui-mod-destructive\">Attacker</span>": "sui-mod-destructive\">攻撃側</span>",
+  "'Tied First'": "'同率1位'",
+  "'Second Place'": "'2位'",
+  "'Third Place'": "'3位'",
+  "'Fourth Place'": "'4位'",
+  ">Top Guild</div>": ">首位ギルド</div>",
+  ">Top Player</div>": ">首位プレイヤー</div>",
+  ">Sector Results</div>": ">セクター結果</div>",
+  "emptyHTML('No Activity in Sector')": "emptyHTML('セクターに動きはありません')",
+  "$keep": [
+    "PID #",
+    "VS"
+  ]
+}
