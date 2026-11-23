@@ -19,6 +19,8 @@ module.exports = {
 
   // The site's hostname; the guild's on-chain endpoint is https://<host>/guild.json.
   host: 'seiken.structs.zone',
+  // guild.json's language: an uppercase code (structs-pg's guild_meta; EN when absent).
+  language: 'JA',
   // The guild's token: one whole is 1,000,000 of the small unit.
   denom: {whole: 'bento', small: 'tsubu'},
   // Onboarding telemetry's interface name: a guild accepts only

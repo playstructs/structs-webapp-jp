@@ -14,6 +14,7 @@ module.exports = function guildJson() {
       tag: guild.tag,
       logo: `${site}/ja/img/guild-logo.png`,
       webapp: guild.host,
+      language: guild.language,
       website: site,
       recruiting: {status: 'open'},
       socials: {
