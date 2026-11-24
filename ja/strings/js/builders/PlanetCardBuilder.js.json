@@ -1,6 +1,8 @@
 {
   "alt=\"3 dots loading animation\"": "alt=\"読み込み中\"",
+  "'Insufficient Energy. Deactivate Structs to reduce Energy draw.'": "'エネルギーが不足しています。ストラクトを停止してエネルギー消費を減らしてください。'",
   "primaryBtnLabel = 'Command';": "primaryBtnLabel = '指揮';",
+  "alphaBaseCard.alertMessage = 'Failed to depart.';": "alphaBaseCard.alertMessage = '出発できませんでした。';",
   "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = 'アルファをすべて採掘しました。';",
   "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = '出発';",
   "alphaBaseCard.alertMessage = 'Depart planet?';": "alphaBaseCard.alertMessage = '惑星を離れますか?';",
